@@ -52,3 +52,9 @@ img {
     margin:10px;
     color: rgb(224, 77, 77);
 }
+@media(max-width:600px)
+{
+	.move{transform: translateY(0);
+	}
+
+}
